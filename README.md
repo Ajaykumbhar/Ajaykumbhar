@@ -3,7 +3,7 @@
 
 <img align="right" alt="coder" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-kaushik2&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-kaushik2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaykumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay Kumbhar" /> </p>
 
 Hey there ! I am pleased to have you here..!!
 - 🎓Currenly in 3rd year of B.Tech in Computer Science
