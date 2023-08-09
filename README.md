@@ -24,4 +24,4 @@ Hey there ! I am pleased to have you here..!!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshita-kaushik2&show_icons=true&locale=en&layout=compact" alt="harshita-kaushik2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshita-kaushik2&show_icons=true&locale=en" alt="harshita-kaushik2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajaykumbhar&show_icons=true&locale=en" alt="harshita-kaushik2" /></p>
