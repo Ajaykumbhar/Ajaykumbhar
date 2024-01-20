@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Ajay Kumbhar </h1>
 <h3 align="center">A passionate developer trying to think it out of the cubicle</h3>
-
-<img align="right" alt="coder" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
-
+<img align="right" alt="coder" height="270" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaykumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay Kumbhar" /> </p>
 
 Hey there ! I am pleased to have you here..!!
+
+
 - 🎓Currenly in Final year of B.Tech in Computer Science Engineering
   
 - 🌱 I’m currently learning **Deep Learning, Neural Networks**
