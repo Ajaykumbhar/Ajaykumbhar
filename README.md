@@ -8,7 +8,7 @@
 Hey there ! I am pleased to have you here..!!
 - 🎓Currenly in Final year of B.Tech in Computer Science Engineering
   
-- 🌱 I’m currently learning **Deep Learning, Neural Networks **
+- 🌱 I’m currently learning **Deep Learning, Neural Networks**
 
 - 💬 Ask me about **DSA, Data Science, Machine Learning.**
 
