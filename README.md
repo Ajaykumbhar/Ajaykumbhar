@@ -14,7 +14,7 @@ Hey there ! I am pleased to have you here..!!
 
 - 👥 I am always open for collaboration and group projects.
 
-- 📫 How to reach me **ajaykumbhar.sde@gmail.com**
+- 📫 How to reach me **ajaykumbhar891@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
