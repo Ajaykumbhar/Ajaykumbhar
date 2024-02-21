@@ -3,7 +3,7 @@
 <img align="right" alt="coder" height="270" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaykumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay Kumbhar" /> </p>
 
-Hey there ! I am pleased to have you here..!!
+Hey there ! I am pleased to have you here...!!
 
 
 - 🎓Currenly in Final year of B.Tech in Computer Science Engineering
