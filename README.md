@@ -11,9 +11,11 @@ Hey there ! I am pleased to have you here...!!
 
 - 💬 Ask me about **React.js, Java, Spring Boot, DSA, and REST APIs.**
 
+- 🧠 Solved **900+ DSA problems on LeetCode**
+
 - 👥 I am always open for collaboration and group projects.
 
-- 📫 How to reach me **ajaykumbhar891@gmail.com**
+- 📫 How to reach me **ajaykumbhar.sde@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
