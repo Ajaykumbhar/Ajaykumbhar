@@ -1,31 +1,32 @@
-<h1 align="center">Hey there 👋, I'm Ajay Kumbhar </h1>
-<h3 align="center">A passionate developer trying to think it out of the cubicle</h3>
-<img align="right" alt="coder" height="270" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaykumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay Kumbhar" /> </p>
+# Hey there 👋, I'm Ajay Kumbhar
 
-Hey there ! I am pleased to have you here...!!
+### Software Engineer | React.js | Java | Spring Boot
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓Currenly in Final year of B.Tech in Computer Science Engineering
-  
-- 🌱 I’m currently learning **Deep Learning, Neural Networks**
+I'm a Software Engineer at TCS passionate about building web applications and backend systems.
 
-- 💬 Ask me about **DSA, Data Science, Machine Learning.**
+- 💻 Working with **React.js, Java, and Spring Boot**
+- 🌱 Learning **System Design, Docker, Kafka, and Microservices**
+- 🧠 Solved **900+ DSA problems on LeetCode**
+- 🤝 Open to collaboration and interesting projects
+- 📫 Reach me at **ajaykumbhar891@gmail.com**
 
-- 👥 I am always open for collaboration and group projects.
+### Connect with me
 
-- 📫 How to reach me **ajaykumbhar891@gmail.com**
+<a href="https://linkedin.com/in/ajay891">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajay891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay891" height="30" width="40" /></a>
+### Languages and Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,mysql,postgres,git,github,docker,maven" alt="Languages and tools" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajaykumbhar&show_icons=true&locale=en&layout=compact" alt="Ajaykumbhar" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajaykumbhar&show_icons=true&locale=en" alt="Ajaykumbhar" />
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajaykumbhar&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumbhar&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
