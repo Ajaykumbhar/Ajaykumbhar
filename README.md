@@ -1,17 +1,20 @@
  <h1 align="center">Hey there 👋, I'm Ajay Kumbhar </h1>
 <h3 align="center">A passionate developer trying to think it out of the cubicle</h3>
-
 <img align="right" alt="coder" height="270" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaykumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay Kumbhar" /> </p>
 
-Hey there! Welcome to my GitHub profile.
+Hey there ! I am pleased to have you here...!!
 
 - 💻 Software Engineer at TCS
-- 🌱 Currently learning **Spring Boot, System Design, Docker, Kafka, and Microservices**
-- 💬 Ask me about **React.js, Java, Spring Boot, DSA, and REST APIs**
-- 👥 Always open to collaboration and interesting projects
-- 📫 Reach me at **ajaykumbhar.sde@gmail.com**
+
+- 🌱 I’m currently learning **Spring Boot, System Design, Docker, Kafka, and Microservices**
+
+- 💬 Ask me about **React.js, Java, Spring Boot, DSA, and REST APIs.**
+
+- 👥 I am always open for collaboration and group projects.
+
+- 📫 How to reach me **ajaykumbhar891@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
