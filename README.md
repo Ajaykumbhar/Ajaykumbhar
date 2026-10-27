@@ -22,7 +22,7 @@ Hey there ! I am pleased to have you here...!!
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img width="615" height="360" alt="Screenshot 2026-10-27 at 8 23 09 PM" src="https://github.com/user-attachments/assets/ae6d24fe-3fd1-4890-9ed5-6a97ded96b75" />z
+<img width="615" height="360" alt="Screenshot 2026-10-27 at 8 23 09 PM" src="https://github.com/user-attachments/assets/ae6d24fe-3fd1-4890-9ed5-6a97ded96b75" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajaykumbhar&show_icons=true&locale=en&layout=compact" alt="Ajaykumbhar" /></p>
 
 
