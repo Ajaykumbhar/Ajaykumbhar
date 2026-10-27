@@ -1,32 +1,30 @@
-# Hey there 👋, I'm Ajay Kumbhar
+<h1 align="center">Hey there 👋, I'm Ajay Kumbhar </h1>
+<h3 align="center">A passionate developer trying to think it out of the cubicle</h3>
+<img align="right" alt="coder" height="270" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaykumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay Kumbhar" /> </p>
 
-### Software Engineer | React.js | Java | Spring Boot
+Hey there ! I am pleased to have you here...!!
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a Software Engineer at TCS passionate about building web applications and backend systems.
+- 🎓Currenly in Final year of B.Tech in Computer Science Engineering
+  
+- 🌱 I’m currently learning **Deep Learning, Neural Networks**
 
-- 💻 Working with **React.js, Java, and Spring Boot**
-- 🌱 Learning **System Design, Docker, Kafka, and Microservices**
-- 🧠 Solved **900+ DSA problems on LeetCode**
-- 🤝 Open to collaboration and interesting projects
-- 📫 Reach me at **ajaykumbhar891@gmail.com**
+- 💬 Ask me about **DSA, Data Science, Machine Learning.**
 
-### Connect with me
+- 👥 I am always open for collaboration and group projects.
 
-<a href="https://linkedin.com/in/ajay891">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-</a>
+- 📫 How to reach me **ajaykumbhar891@gmail.com**
 
-### Languages and Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ajay891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay891" height="30" width="40" /></a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,mysql,postgres,git,github,docker,maven" alt="Languages and tools" />
-</p>
 
-### GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<img width="615" height="360" alt="Screenshot 2026-10-27 at 8 23 09 PM" src="https://github.com/user-attachments/assets/ae6d24fe-3fd1-4890-9ed5-6a97ded96b75" />z
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajaykumbhar&show_icons=true&locale=en&layout=compact" alt="Ajaykumbhar" /></p>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajaykumbhar&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumbhar&layout=compact&hide_border=true" alt="Top Languages" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajaykumbhar&show_icons=true&locale=en" alt="Ajaykumbhar" />
 </p>
